@@ -1,0 +1,10 @@
+{
+  "name": "blendid-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://cloflin.github.io.git",
+  "dependencies": {
+    "blendid": "^4.0.0-rc.1"
+  }
+}
